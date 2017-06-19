@@ -1,0 +1,15 @@
+male, 남성
+female, 여자
+assurance, 확신
+need, 필요
+mom, 어머님, 어머
+swimming, 수영
+sincerity, 성의를
+see, 보여
+kimbap, 킴밮
+cheese, 치즈
+night, 밤
+boy, 소년
+girl, 소녀
+friend, 친구
+quiver, 딸림
