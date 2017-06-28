@@ -13,3 +13,8 @@ boy, 소년
 girl, 소녀
 friend, 친구
 quiver, 딸림
+pretty, 예쁜
+teacher,선생님
+school, 학교
+blue, 파란
+name,이름
